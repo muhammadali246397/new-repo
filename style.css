@@ -1,0 +1,8 @@
+header{
+    height: 300px;
+    background-color: gray;
+}
+img{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
